@@ -33,6 +33,7 @@ I enjoy building collaborative robots (cobots), full-stack applications, and exp
 
 ## 🔗 Connect With Me
 
-- [LinkedIn]()
-- [CodePen]()
+- [LinkedIn](linkedin.com)
+- [CodePen](codepen.io)
+- [Behance](behance.net)
 
