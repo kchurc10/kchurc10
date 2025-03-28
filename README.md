@@ -16,7 +16,7 @@ I enjoy building collaborative robots (cobots), full-stack applications, and exp
 - Robotics projects 🤖  
 - Grilling on my pellet smoker 🍖  
 - Making plaques with C# code for teammates 🎁  
-- Collaborating with my team “Creative Team Name” 💡  
+- Video Games!!!” 💡  
 
 ---
 
