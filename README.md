@@ -23,8 +23,8 @@ I enjoy building collaborative robots (cobots), full-stack applications, and exp
 ## 📈 GitHub Stats
 
 <!-- GitHub stats widget -->
-![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchurch7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchurch7&layout=compact&theme=tokyonight)
+![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchurc10&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchurc10&layout=compact&theme=tokyonight)
 
 ---
 
